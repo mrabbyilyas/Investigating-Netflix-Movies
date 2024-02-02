@@ -1,0 +1,3 @@
+# Netflix Movie Duration Analysis
+
+This project provides a comprehensive analysis of the duration of movies available on Netflix from 1940 to 2020. Using Python, pandas, and matplotlib, the data is visualized in a scatter plot, where each point represents an individual movie. The color of the points indicates the genre of the movie. The analysis reveals an increasing trend in movie durations over time, with a noticeable increase in variability in the modern era. This project offers valuable insights into the evolution of the film industry and changes in viewer preferences over time. Enjoy exploring the trends!
